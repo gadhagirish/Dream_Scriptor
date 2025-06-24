@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
 openai
-pyrebase
+pyrebase4
 fpdf
 Pillow
 requests
