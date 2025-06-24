@@ -5,3 +5,4 @@ pyrebase
 fpdf
 Pillow
 requests
+gTTS
