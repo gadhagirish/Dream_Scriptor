@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dreamscriptor-b6416",
+  "private_key_id": "57a009c01cd9301848bbc2aa9da48cfc41c523b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzg+dbatURllBe\nwNpMj7ZUw/7B/plgiHPbGz+ntK7HtgHma8f+MvqqlYPQTPSrrS1RNI4MWfcpXCaU\nsSfHvvQQ7gZSn2zU+fAhRU9hhBGNt9/zYOjtQ3oeL8UyKCNDq8gSfYoySxb3BGlh\nKqSBqG12+WK1YJlWzRk/IOBr9fL9usCglv6E7xp4XhQCHQ3h9rvT+5eZ0F1pVfuh\nfsAuw8qHiTaoc7JzRSA4V2jsq73kMTmiX7ov3Q9IitRx88/al1Q1BD8rX+QiRRT0\nPZYajKrBPg21Obdxou1psnE5lTNjnNMY2JJkLDzZk/bMekbO5S6y03DxHrXqZX9e\nfiyJqk35AgMBAAECggEAG8LfSYTo9HJRdYXPfJ2Q7eTtheSwpXwUpqK9IltP2DSu\ncIrkf8w0daLvoov0HoSGiJNfEEvtbCkDEmWfKEXAism0kpxzATCx0QNd9k+tQ0RX\nTtUC0IZp4Tc0AMCyS2nKZAmkEIkKQSMehNdKX37Dhu2kNTZ+IC1RpTCZZDjB3jj7\nf/dbjDKepoVukuA7WwXFm6WCth0AAAjr03qAzwMnHs3I299CdcysQwEV4wLZdNZh\n2IhYTR/EYbW75XiDzdBNi0J5jKAu364dsVZgSTx224RsW0pGmHrgEek/PgV7QvHi\n0q9IzUWVWQ1DAYHWhZooaX7/tb0iekvp+sjBunsWvQKBgQC+P0aguMNNMYaV6FbA\nrzLMqpmD3H+wFL0BwqD49mu0DFdhgKeri0TxnuJVAX6veIq1i4WZKHsc8uS6/s0E\nKQ9kGQg7xkkSNQoeJfesCOosscfYgCXFW4jltEB0bERgcualiTbULI43z+3cGyQz\nIzh8UB9BDGDkL5Axa04B018G0wKBgQDxjxY7gc3rAMVuFCWSmoawwueC6fSBDPCT\n6kZrQ6k93HG4nxeeaIPhhGHvKhPcfcpd0vN3zpLI5dMFFfxndRvYeloBwCEc8wpH\n0z9UzEeiJ+4951cJVK59F77L1+GGklCkhDy+yL7qoEC9CcWer17ZJEDS8m+Pt5cV\np78E0UzwgwKBgEIO7pM4FHhlTfoXZqgZLWZrhkqG8b9ONCK8VfCcf+FQt7afWZjz\nDslnBefGURrUnDVVcNoxeC4hGNLlToK3TyTOnFFFFHJCAHVfcZRGtCk4wc+nD3Zr\nxikcYZULUuK6guPPtT4PCoLOrCTVN8iZ3i8sEu4fQjV5XnQKclen8UMJAoGBAOzr\nIC0hNOvnB7zdebR+Zth7cUHPYQYpwNPylTqjVBzeV5NyRmIRtDe99afzJyO9JHw9\naJn7O7Ba6Us1sydtjvAVoK3S2SdhoJWttZHgAeojK+H/Qjhem/0JCxM3G3U3kGyr\nXkDo94d7wcMnEHKBIo/qpMHBEnZs5HxS2GFLPyEtAoGBALoRDfWDS7scMUilcWo3\npIKHJd9Qr27QPX3QNmvqiHjKvvFnsL+Xyd4qfSlnhCEdElYgT6YeqwIRq9jg2Svm\nSHcBZtNHMOzNQbqiLpJS/ezZLypnCwVlMxVyWmUL38x74yL39KvHmRuqtYWh3gg9\ncIeigz/2IQCANO689AY/khWu\n-----END PRIVATE KEY-----\n",
+  "client_email": "dreamscriptor-b6416@appspot.gserviceaccount.com",
+  "client_id": "109459029859717758598",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dreamscriptor-b6416%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
