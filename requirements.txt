@@ -6,3 +6,5 @@ fpdf
 Pillow
 requests
 gTTS
+google-api-python-client
+oauth2client
