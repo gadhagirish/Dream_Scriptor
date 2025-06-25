@@ -64,6 +64,7 @@ DreamScriptor/
 │ └── config.toml # (optional) page setup
 └── README.md # You're reading it!
 
+For application go to : https://dreamscriptor-jqm2wjguwhry7hn7zbuqyr.streamlit.app/
 
 📜 License
 MIT License © 2025 @gadhagirish
